@@ -1,5 +1,6 @@
-Godzilla besucht Tokyo
+godzilla-besucht-tokio 
  Projektbeschreibung :
+Photoshop-Bildkomposition, in der Godzilla mit Ebenenmasken, Einstellungsebenen und non-destruktivem Workflow in eine Tokyo-Szene montiert wird. 
 In diesem Photoshop-Projekt wird Godzilla in eine Szene von Tokyo integriert. Dabei werden verschiedene Bildelemente miteinander kombiniert, sodass eine möglichst realistische und harmonische Gesamtkomposition entsteht.
 Neben Godzilla werden mindestens vier weitere frei gewählte Elemente in das Bild eingebaut. Das Ziel ist, die einzelnen Bilder so miteinander zu verschmelzen, dass möglichst keine sichtbaren Übergänge zwischen den verschiedenen Elementen entstehen.
 Ziel der Aufgabe :
